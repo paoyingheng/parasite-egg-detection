@@ -1,6 +1,5 @@
 ---
 title: Parasite Egg Detection
-emoji: 🔥
 colorFrom: indigo
 colorTo: gray
 sdk: gradio
@@ -10,4 +9,3 @@ pinned: false
 license: cc
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
