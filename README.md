@@ -1,5 +1,5 @@
 ---
-title: Parasite Egg Detection
+title: Detection and Classification of Parasite Eggs in Microscopic Images with YOLOv8 
 colorFrom: indigo
 colorTo: gray
 sdk: gradio
