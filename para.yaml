@@ -1,4 +1,4 @@
-path: /mnt/c//Users/PY Heng/Documents/GitHub/trial/data
+path: /path_to/data
 train: images
 val: images
 
