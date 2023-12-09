@@ -1,0 +1,15 @@
+path: /mnt/c//Users/PY Heng/Documents/GitHub/trial/data
+train: images
+val: images
+
+#classes
+names:
+  0: Ascaris lumbricoides
+  1: Capillaria philippinensis
+  2: Enterobius vermicularis
+  3: Hookworm
+  4: Hymenolepis diminuta
+  5: Hymenolepis nana
+  6: Opisthorchis viverrine
+  7: Taenia spp
+  8: Trichuris trichiura
