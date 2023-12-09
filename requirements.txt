@@ -1,4 +1,3 @@
-gradio==4.7.1
+gradio
 torch
-ultralytics
-ultralyticsplus
+Ultralyticsplus
