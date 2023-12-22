@@ -7,5 +7,6 @@ sdk_version: 4.7.1
 app_file: app.py
 pinned: false
 license: cc
+demo: https://huggingface.co/spaces/paoyingheng/parasite-egg-detection
 ---
 
