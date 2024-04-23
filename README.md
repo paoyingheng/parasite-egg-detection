@@ -8,4 +8,4 @@ app_file: app.py
 pinned: false
 license: cc
 ---
-Demo: https://huggingface.co/spaces/paoyingheng/parasite-egg-detection
+[Demo](https://huggingface.co/spaces/paoyingheng/parasite-egg-detection-classification)
