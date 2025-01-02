@@ -13,7 +13,7 @@ license: cc
 
 # Parasite Egg Detection and Classification Using YOLOv8
 
-## Project Overview
+## Project overview
 This project leverages YOLOv8, a cutting-edge object detection model, to automate the detection and classification of parasite eggs in microscopy images. The workflow includes data preparation, model training, validation, testing, and deployment to Hugging Face Spaces for real-time inference.
 
 ## Objectives
@@ -27,7 +27,7 @@ This project leverages YOLOv8, a cutting-edge object detection model, to automat
 - Scalable and reproducible workflow for training and evaluation.
 
 
-## Installation and Usage
+## Installation and usage
 
 ### 1. Clone the repository
 
